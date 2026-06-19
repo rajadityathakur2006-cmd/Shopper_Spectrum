@@ -40,3 +40,7 @@ streamlit run app.py
 - 🔵 Regular — Steady buyers, loyalty programs
 - 🟢 Occasional — Rare buyers, re-engagement needed  
 - 🔴 At-Risk — Inactive customers, win-back campaigns
+
+`similarity_matrix.pkl` is not included due to GitHub's 25MB file size limit.
+To generate it, run the notebook `Shopper_Spectrum.ipynb` from top to bottom.
+It will automatically create all model files inside the `models/` folder.

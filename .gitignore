@@ -13,3 +13,4 @@ venv/
 
 # Model Files
 *.pkl
+echo "models/similarity_matrix.pkl" > .gitignore
